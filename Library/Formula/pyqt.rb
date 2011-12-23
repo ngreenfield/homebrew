@@ -6,7 +6,7 @@ require 'formula'
 class Pyqt < Formula
   url 'http://www.riverbankcomputing.co.uk/static/Downloads/PyQt4/PyQt-mac-gpl-4.9.tar.gz'
   homepage 'http://www.riverbankcomputing.co.uk/software/pyqt'
-  md5 '9ceefc9a78d1da8903f0fc95d2133360'
+  md5 'ef3e49bc7f2e45aa52b551781e034ccf'
 
   depends_on 'sip'
   depends_on 'qt'
