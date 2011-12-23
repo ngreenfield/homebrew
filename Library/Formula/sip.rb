@@ -8,7 +8,7 @@ require 'formula'
 # which causes panic and terror to flood the Homebrew issue tracker.
 
 class Sip < Formula
-  url 'http://www.riverbankcomputing.co.uk/hg/sip/archive/4.12.4.tar.gz'
+  url 'http://www.riverbankcomputing.co.uk/static/Downloads/sip4/sip-4.13.1.tar.gz'
   md5 '22bc7571fd06f26f0f3d7c27bd1c392a'
   head 'http://www.riverbankcomputing.co.uk/hg/sip', :using => :hg
   homepage 'http://www.riverbankcomputing.co.uk/software/sip'
