@@ -9,7 +9,7 @@ require 'formula'
 
 class Sip < Formula
   url 'http://www.riverbankcomputing.co.uk/static/Downloads/sip4/sip-4.13.1.tar.gz'
-  md5 '22bc7571fd06f26f0f3d7c27bd1c392a'
+  md5 '3f61fd39d5b0c8fa9e43b59af04de924'
   head 'http://www.riverbankcomputing.co.uk/hg/sip', :using => :hg
   homepage 'http://www.riverbankcomputing.co.uk/software/sip'
 
